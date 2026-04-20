@@ -55,4 +55,4 @@
 
 
 ## Скриншот
-![Dashboard](screenshots/dashboard-main.png)
+![Dashboard](screenshots/dash-01.jpg)
