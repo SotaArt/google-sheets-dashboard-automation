@@ -52,3 +52,7 @@
 - автоматизация
 - тестирование
 - внедрение
+
+
+## Скриншот
+![Dashboard](screenshots/dashboard-main.png)
