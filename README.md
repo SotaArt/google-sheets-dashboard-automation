@@ -76,16 +76,16 @@
 # Скриншоты
 
 Основной экран
-"Dashboard" (screenshots/dash-01.jpeg)
+"Dashboard" (screenshots/dash-01.jpg)
 
 KPI
-"KPI" (screenshots/dash-042.jpeg)
+"KPI" (screenshots/dash-042.jpg)
 
 Аналитика
-"Analytics" (screenshots/dash-02.jpeg)
+"Analytics" (screenshots/dash-02.jpg)
 
 Динамика
-"Dynamics" (screenshots/dash-05.jpeg)
+"Dynamics" (screenshots/dash-05.jpg)
 
 ---
 
