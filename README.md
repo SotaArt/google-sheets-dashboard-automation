@@ -96,13 +96,10 @@ KPI
 
 <b>Структура проекта</b>
 
-google-sheets-dashboard-automation/
-
-|-- README.md
-
-|-- docs/
-
-|-- screenshots/
+google-sheets-dashboard-automation/  
+|-- README.md  
+|-- docs/  
+|-- screenshots/  
 
 #
 
