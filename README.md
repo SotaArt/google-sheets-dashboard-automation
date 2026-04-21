@@ -86,7 +86,7 @@ KPI
 
 Аналитика
 
-![Analytics](screenshots/dash-02.jpg)
+![Analytics](screenshots/dash-03.jpg)
 
 Динамика
 
