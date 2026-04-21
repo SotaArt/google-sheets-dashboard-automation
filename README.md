@@ -78,11 +78,11 @@
 
 Основной экран
 
-![Dashboard] (screenshots/dash-01.jpg)
+"Dashboard" (screenshots/dash-01.jpg)
 
 KPI
 
-"KPI" (screenshots/dash-042.jpg)
+"KPI" (screenshots/dash-02.jpg)
 
 Аналитика
 
