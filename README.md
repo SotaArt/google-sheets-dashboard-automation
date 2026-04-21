@@ -78,19 +78,19 @@
 
 Основной экран
 
-![Dashboard] (screenshots/dash-01.jpg)
+![Dashboard](screenshots/dash-01.jpg)
 
 KPI
 
-![KPI] (screenshots/dash-02.jpg)
+![KPI](screenshots/dash-02.jpg)
 
 Аналитика
 
-![Analytics] (screenshots/dash-02.jpg)
+![Analytics](screenshots/dash-02.jpg)
 
 Динамика
 
-![Dynamics] (screenshots/dash-05.jpg)
+![Dynamics](screenshots/dash-05.jpg)
 
 #
 
