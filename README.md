@@ -97,9 +97,9 @@ KPI
 <b>Структура проекта</b>
 
 google-sheets-dashboard-automation/
-├── README.md
-├── docs/
-├── screenshots/
+|-- README.md
+|-- docs/
+|-- screenshots/
 
 #
 
