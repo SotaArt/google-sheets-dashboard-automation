@@ -39,7 +39,8 @@
 
 #
 
-Используемые инструменты
+<b>Используемые инструменты</b>
+
 - Google Sheets
 - Google Apps Script
 - Формулы Google Sheets
