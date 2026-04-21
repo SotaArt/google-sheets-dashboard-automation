@@ -78,7 +78,7 @@
 
 Основной экран
 
-"Dashboard" (screenshots/dash-01.jpg)
+"Dashboard" screenshots/dash-01.jpg
 
 KPI
 
